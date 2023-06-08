@@ -20,7 +20,7 @@ img;
 nav{
     List-style-type: none;
     position: center;
-    background-color: #5B7033
+    background-color: #5B7033;
 }
       
 li{
@@ -33,7 +33,7 @@ display:block;
    color:white;
    text-align:center;
    padding:14px 16px;
-   text decoration: none
+   text decoration: none;
 }
 li a:hover{
   Background-color: #111;
@@ -41,5 +41,4 @@ li a:hover{
 
 li:hover{
   background-color:8BB174;
-}
 }
